@@ -1,0 +1,31 @@
+﻿Metadaten-Feld;Metadaten
+Titel*;Rechnungsliste Reinickendorf
+Dateiformat*;XLSX
+Transferfeld* (Mehrfachnennung möglich);Hilfe zur Pflege
+Beschreibung*;
+URL zur Originalversion;n.a.
+URL bereitgestellte Version auf SenFinCloud;https://senfin.dracoon.team/node/10992/details
+Bearbeitungsinformationen;"Nur Daten für 2019 aufgenommen
+Werte für 2019 in zwei Tabellenblätter zusammengefasst: ""Falsche Rechnungen 2019"" und ""Rechnungskürzung 2019""
+Spalte C Leistungsempfänger entfernt
+Spalte X ""%"" entfernen
+Spalte W ""Kürzungsbetrag"" entfernen
+Werte, die in den Spalten E-R nicht 1 entsprachen, wurden durch 1 ersetzt"
+URL Importversion für Prototyp;https://senfin.dracoon.team/node/11676/details
+Webadresse;n.a.
+Veröffentlichende Stelle*;Amt für Soziales Reinickendorf, Fachbereich Hilfe zur Pflege
+Kontaktperson;Frau Lendzian, in Vertretung Fr. Michaela Schröder
+Kontakt-E-Mail*;Simone.Lendzian@reinickendorf.berlin.de
+Lizenz*;Verwaltungsintern
+Veröffentlichungsdatum*;n.a.
+Aktualisierungsdatum;laufend
+Zeitliche Auflösung;
+Zeitperiode;"Anfangsdatum: 2019-01-01
+
+
+Enddatum: 2019-12-31"
+Geographische Auflösung;Bezirk
+Geographische Abdeckung;Bezirk
+* Angabe zwingend erforderlich;
+Dieses Template basiert auf einer Vorlage der Open Data Informationsstelle: https://odis-berlin.de/ressourcen/metadaten.html;
+Mehr Informationen zu Metadaten für das Open-Data-Porta Berlin finden sie im: Berliner Open-Data-Handbuch;
